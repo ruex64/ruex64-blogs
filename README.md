@@ -55,3 +55,14 @@
 - Displays the **full blog post** with the **title, content, and tags**.  
 - Includes a **formatted Markdown rendering** for a better reading experience.  
 - Users can **delete their own posts**.  
+
+---
+
+## 🚧 Features in Development  
+
+- 🔹 **Enhanced Profile Page**: More details about user activity.  
+- 🔹 **Multiple Themes**: Users can select between **light and dark** themes.  
+- 🔹 **Edit Post Feature**: Users will be able to **update existing posts**.  
+- 🔹 **Comments & Likes**: Users will soon be able to **comment and like posts**.  
+
+---
