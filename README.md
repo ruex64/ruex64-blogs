@@ -53,8 +53,7 @@
 
 ### 📄 **Blog Post Page**  
 - Displays the **full blog post** with the **title, content, and tags**.  
-- Includes a **formatted Markdown rendering** for a better reading experience.  
-- Users can **delete their own posts**.  
+- Includes a **formatted Markdown rendering** for a better reading experience.    
 
 ---
 
